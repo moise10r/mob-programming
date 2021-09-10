@@ -1,0 +1,10 @@
+{
+  "name": "microverse-admissions",
+  "devDependencies": {
+    "jest": "^27.1.1",
+    "mocha": "~8.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
